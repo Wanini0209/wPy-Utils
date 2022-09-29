@@ -9,7 +9,7 @@ DISTNAME = 'wPy-Utils'
 VERSION = '1.0.0'
 
 # One-line description or tagline of what the project does.
-DESCRIPTION = 'Wanini's Extended Utilities of Common Python libs'
+DESCRIPTION = "Wanini's Extended Utilities of Common Python libs"
 
 # Get the long description from the README file
 this_directory = path.abspath(path.dirname(__file__))
