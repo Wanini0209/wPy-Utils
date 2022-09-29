@@ -8,3 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Add `io.pickle_dump` and `io.pickle_load` to save/load an object via pickle lib.
