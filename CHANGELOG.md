@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Add `io.pickle_dump` and `io.pickle_load` to save/load an object via pickle lib.
+- Add `io.read_text` and `io.write_text` to read/write text files.
