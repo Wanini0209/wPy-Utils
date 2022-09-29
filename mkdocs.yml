@@ -1,0 +1,8 @@
+site_name: Wanini's Extended Utilities of Common Python libs
+nav:
+    - Home: README.md
+    - Contributing: contributing.md
+
+repo_url: https://github.com/Wanini0209/wPy-Utils
+remote_branch: gh-pages
+remote_name: origin
