@@ -8,6 +8,11 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__),
                                                 '../..')))
 
 # pylint: disable=wrong-import-position, unused-import, wrong-import-order
-from wutils.io import pickle_dump, pickle_load  # noqa: E402, F401
+from wutils.io import (  # noqa: E402, F401
+    pickle_dump,
+    pickle_load,
+    read_text,
+    write_text,
+)
 
 # pylint: enable=wrong-import-position, unused-import, wrong-import-order
